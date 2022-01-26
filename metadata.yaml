@@ -1,11 +1,16 @@
 _repo: Observations-on-the-Terataspis-grandis-Hall-the-largest-known-trilobite_67196
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67196-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Clarke, John Mason
     gutenberg_agent_id: '54150'
     url: http://www.gutenberg.org/2009/agents/54150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67196#Observations-on-the-Terataspis-grandis-Hall-the-largest-known-trilobite
 gutenberg_issued: '2022-01-19'
 identifiers:
   gutenberg: '67196'
